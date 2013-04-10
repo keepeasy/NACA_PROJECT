@@ -9,7 +9,7 @@ To import the script open your CAD and write at the command line SCRIPT, it open
 
 The distro file contains applications for Mac OS X, Linux, Windows.
 
-To have more infos write to: mattia.tristo@gmail.com.
+To have more infos write to: iam_guscio@libero.it.
 
 Happy Poject
 Mattia

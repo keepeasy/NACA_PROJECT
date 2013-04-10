@@ -10,7 +10,7 @@ Distribuito con licenza opensource GNU/GPL v3.0 e codice sorgente : Naca_Project
 Disponibile per Mac OS X, Linux, Windows.
 
 
-Per maggiori informazioni scrivi a mattia.tristo@gmail.com.
+Per maggiori informazioni scrivi a iam_guscio@libero.it.
 
 Happy Poject
 Mattia
